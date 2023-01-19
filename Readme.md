@@ -2,7 +2,7 @@
 
 ## Work Experience :
 
-* Software Engineer at [PhonePe](https://www.phonepe.com/)
+* Ex - Software Engineer at [PhonePe](https://www.phonepe.com/)
 
 ## Tools & Technologies :computer:
 
