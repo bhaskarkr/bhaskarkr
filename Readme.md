@@ -25,6 +25,8 @@
 
 ![Bhaskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaskarkr&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskarkr&" alt="bhaskarkr" /></p>
+
 ## Top Langauges 👩‍💻
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarkr&hide=TeX&layout=compact)
