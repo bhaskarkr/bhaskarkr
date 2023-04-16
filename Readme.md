@@ -22,7 +22,10 @@
 
 ## My GitHub Stats ⚡
 
-![Bhaskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaskarkr&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Bhaskar's GitHub stats]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskarkr&show_icons=true&locale=en&layout=compact" alt="bhaskarkr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaskarkr&show_icons=true&locale=en" alt="bhaskarkr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskarkr&" alt="bhaskarkr" /></p>
 
