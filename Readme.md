@@ -2,10 +2,6 @@
 
 ### Hey there, I'm Bhaskar. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Work Experience :
-
-* Ex - Software Engineer at [PhonePe](https://www.phonepe.com/)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
